@@ -1,0 +1,23 @@
+
+*.safetensors
+error.png
+
+.vscode
+.ipynb_checkpoints
+*.log
+*.ipynb
+*.env
+*_env
+.DS_Store
+memory
+# history/*/*.csv
+**/__pycache__
+models
+runs
+wandb
+ppo_stonky.zip
+**/vectorDB/
+.env
+__pycache__/
+hospital.db
+chroma_db/
